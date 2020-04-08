@@ -1,0 +1,6 @@
+{
+  "ignoreTestFiles": "**/examples/*.js",
+  "env": {
+    "host": "https://www.w3schools.com/html/default.asp"
+  }
+}
